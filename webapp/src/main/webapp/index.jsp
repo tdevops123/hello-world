@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Sureit Technologies !!! </h1>
+<h1> Hello, Welcome to SUREIT Technologies !!! </h1>
 
